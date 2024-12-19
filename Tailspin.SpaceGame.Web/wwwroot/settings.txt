@@ -1,0 +1,4 @@
+root: C:\Users\sarah.souza\Documents\MSLearn\mslearn-tailspin-spacegame-web\Tailspin.SpaceGame.Web\wwwroot 
+path: C:\Program Files\nodejs 
+arch: 64 
+proxy: none
